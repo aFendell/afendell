@@ -7,7 +7,7 @@ Full Stack | Frontend Developer
 I love code!!
 
 * 🌍  I'm based in Israel
-* 🖥️  See my portfolio at [My website](http://afendell.vercel.app/)
+* 🖥️  See my portfolio at [My website](http://afendell.vercel.app/) (work in progress).
 * ✉️  You can contact me at [fendell.assaf@gmail.com](mailto:fendell.assaf@gmail.com)
 * 🚀  I'm currently working on [Full stack task managment app](http://github.com/aFendell/task-manager)
 * 🧠  I'm learning NestJS, TypeORM, Auth, Docker, Framer Motion

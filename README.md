@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack | Frontend Developer
 -------------------------------
 
-I love code!!
+I love <b>.this</b> code!!
 
 * 🌍  I'm based in Israel.
 * 🖥️  See my portfolio at [My website](http://afendell.vercel.app/) (IN_PROGRESS).
@@ -12,6 +12,7 @@ I love code!!
 * 🚀  I'm currently working on [Full stack task managment app](http://github.com/aFendell/task-manager).
 * 🧠  I'm learning NestJS, TypeORM, Auth, Docker, Framer Motion.
 * 🤝  I'm open to collaborating on any code that might help people.
+* ⚡  I'm async.
 
 ### Skills
 

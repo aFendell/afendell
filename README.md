@@ -9,7 +9,7 @@ Full Stack | Frontend Developer
 * 🌍  I'm based in Israel.
 * 🖥️  See my portfolio at [My website](http://afendell.vercel.app/) (IN_PROGRESS).
 * 🚀  I'm currently searching, researching and playing with code for my next project.
-* 🧠  I'm open to collaborating on any project that might help people or chalenge my skills.
+* 🧠   I'm open to collaborating on any project that might help people or chalenge my skills.
 * ✉️  You're welcome to contact me at [fendell.assaf@gmail.com](mailto:fendell.assaf@gmail.com).
 
 
